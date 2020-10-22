@@ -35,7 +35,7 @@
        </a>
      </figure>
      <figure>
-       <a href="#"><img class="" width="200" src="img/tarjeta.svg" ></a>
+       <a href="#"><img class="" width="200" src="img/empleado.svg" ></a>
        <a href="#">
          <div class="capa">
            <div class="Especificaciones">

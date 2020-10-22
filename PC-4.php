@@ -16,16 +16,16 @@
          <p>Procesador: AMD Ryzen 5 2600</p>
        </div>
        <div class="specs">
-         <p>Grafica: GeForce GTX 1650 Super 4GB</p>
+         <p>Grafica: NVIDIA QUADRO P400</p>
        </div>
        <div class="specs">
          <p>Almacenamiento de 1TB HDD</p>
        </div>
        <div class="specs">
-         <p>8GB de Memoria RAM DDR4</p>
+         <p>16GB de Memoria RAM DDR4</p>
        </div>
        <div class="specs">
-         <p>Gabinete: Jaguar Warrior Lightning</p>
+         <p>Gabinete: Carbide Spec-05 Corsair</p>
        </div>
      </div>
 

@@ -16,7 +16,7 @@
          <p>Procesador: AMD Ryzen 5 2600</p>
        </div>
        <div class="specs">
-         <p>Grafica: GeForce GTX 1650 Super 4GB</p>
+         <p>Grafica: Radeon RX 580 8GB</p>
        </div>
        <div class="specs">
          <p>Almacenamiento de 1TB HDD</p>
@@ -25,7 +25,7 @@
          <p>8GB de Memoria RAM DDR4</p>
        </div>
        <div class="specs">
-         <p>Gabinete: Jaguar Warrior Lightning</p>
+         <p>Gabinete: Yaguaret Hawkeye</p>
        </div>
      </div>
 

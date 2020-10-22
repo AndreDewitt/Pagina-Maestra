@@ -22,10 +22,10 @@
          <p>Almacenamiento de 1TB HDD</p>
        </div>
        <div class="specs">
-         <p>8GB de Memoria RAM DDR4</p>
+         <p>16GB de Memoria RAM DDR4 / 250GB SSD</p>
        </div>
        <div class="specs">
-         <p>Gabinete: Jaguar Warrior Lightning</p>
+         <p>Gabinete: PBA ROG STRIX PROJECT</p>
        </div>
      </div>
 
